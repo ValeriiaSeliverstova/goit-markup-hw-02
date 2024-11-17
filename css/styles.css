@@ -11,28 +11,28 @@ nav ul {
 }
 
 .nav-item {
-    color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-decoration: none
+    color: #2e2f42;
+    text-decoration: none;
 }
 
 .nav-item:hover, .nav-item:focus {
-    color: #404bbf
+    color: #404bbf;
 }
+
 
 .header-logo {
     font-family: 'Raleway', sans-serif;
-    color: #4d5ae5;
-    font-style: 'Raleway', sans-serif;
-    text-transform: uppercase;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-decoration: none
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none; 
 }
 
 .header-logo-accent {
@@ -113,7 +113,7 @@ section ul {
     list-style: none;
 }
 
-.section-p {
+.section-paragraph {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455
