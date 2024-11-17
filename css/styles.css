@@ -1,0 +1,133 @@
+body {
+    font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
+    color: #2e2f42;
+    text-decoration: none;
+    background-color: #ffffff;
+    font-style: normal
+}
+nav ul {
+    list-style: none;
+}
+
+.nav-item {
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    text-decoration: none
+}
+
+.nav-item:hover, .nav-item:focus {
+    color: #404bbf
+}
+
+header .logo {
+    color: #2e2f42;
+    font-style: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.166;
+    letter-spacing: 3%;
+    text-decoration: none
+}
+
+header .logo-accent {
+    color: #4D5AE5;
+}
+
+address ul {
+    list-style: none;
+}
+
+.address {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #434455;
+    text-decoration: none
+}
+
+.address:hover, .address:focus {
+    font-style: normal;
+    color: #404bbf;
+    text-decoration: none
+}
+
+.hero {
+    background-color: #2E2F42;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.071;
+    letter-spacing: 2%;
+}
+
+.hero-button {
+    background-color: #4D5AE5;
+    color: #ffffff;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    cursor: pointer
+}
+
+.hero-button:hover  {
+    background-color: #404BBF
+}
+
+h2 {
+    font-weight: 700;
+    line-height: 1.111;
+    letter-spacing: 2%;
+    text-align: center
+}
+
+.h2-hidden {
+    visibility: hidden;
+}
+
+h3 {
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 2%
+} 
+
+section ul {
+    list-style: none;
+}
+
+section p {
+    line-height: 1.2;
+    letter-spacing: 2%
+}
+
+.section-team {
+    background-color: #F4F4FD;
+}
+
+footer {
+    background-color: #2E2F42;
+    color: #E7E9FC;
+    line-height: 1.5;
+    letter-spacing: 2%
+}
+
+
+footer .logo {
+    color: #F4F4FD;
+    font-style: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.166;
+    letter-spacing: 3%;
+    text-decoration: none
+}
+
+.logo-accent {
+    color: #4D5AE5;
+}
