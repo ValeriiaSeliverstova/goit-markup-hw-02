@@ -138,6 +138,11 @@ nav ul {
     font-size: 16px
 }
 
+.section-title-cards {
+    line-height: 1.1;
+    font-size: 36px
+}
+
 .footer {
     background-color: #2E2F42;
     color: #E7E9FC;
