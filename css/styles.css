@@ -54,13 +54,13 @@ nav ul {
     text-decoration: none
 }
 
-.address-item:hover, .address:focus {
+.address-item:hover, .address-item:focus {
     font-style: normal;
     color: #404bbf;
     text-decoration: none
 }
 
-.hero {
+.hero-content {
     background-color: #2e2f42;
 }
 
@@ -101,6 +101,14 @@ nav ul {
     visibility: hidden;
 }
 
+.h3-title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+}
+
 .section-title {
     font-weight: 500;
     font-size: 20px;
@@ -109,14 +117,16 @@ nav ul {
     color: #2e2f42
 } 
 
-section ul {
+.section-list {
     list-style: none;
+    background-color: #ffffff
 }
 
 .section-paragraph {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455
+    color: #434455;
+    font-size: 16px
 }
 
 .section-team {
