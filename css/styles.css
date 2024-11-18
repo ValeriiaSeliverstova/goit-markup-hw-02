@@ -139,8 +139,12 @@ nav ul {
 }
 
 .section-title-cards {
-    line-height: 1.1;
-    font-size: 36px
+    line-height: 1.11;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-transform: capitalize;
+    text-align: center;
 }
 
 .footer {
