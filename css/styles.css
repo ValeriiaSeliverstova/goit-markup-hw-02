@@ -64,7 +64,7 @@ nav ul {
     background-color: #2e2f42;
 }
 
-.hero-h1 {
+.hero-title {
     font-size: 56px;
     color: #ffffff;
     line-height: 1.07;
@@ -107,6 +107,10 @@ nav ul {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42
+}
+
+.section {
+    background-color: #ffffff;
 }
 
 .section-title {
