@@ -39,7 +39,7 @@ nav ul {
     color: #2e2f42;
 }
 
-address {
+.address {
     font-style: normal;
     list-style: none
 }
@@ -54,7 +54,7 @@ address {
     text-decoration: none
 }
 
-.address:hover, .address:focus {
+.address-item:hover, .address:focus {
     font-style: normal;
     color: #404bbf;
     text-decoration: none
@@ -64,7 +64,7 @@ address {
     background-color: #2e2f42;
 }
 
-.hero h1 {
+.hero-h1 {
     font-size: 56px;
     color: #ffffff;
     line-height: 1.07;
