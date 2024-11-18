@@ -87,7 +87,7 @@ nav ul {
     background-color: #404BBF
 }
 
-.h2-title {
+.section-title {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -97,7 +97,7 @@ nav ul {
     color: #2e2f42
 }
 
-.h2-title-hidden {
+.section-title-hidden {
     visibility: hidden;
 }
 
